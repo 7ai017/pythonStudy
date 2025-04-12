@@ -91,7 +91,8 @@ Microsoft AI School 7기에 수업과정중...
      개인 프로젝트 전환 /	GitHub 포트폴리오, 논문 구현, 논리 연습 등 집중	/ ✅ 병행 추천
       
       
-
+![StandingOvationGIF](https://github.com/user-attachments/assets/9a397453-1c1b-48da-ae4d-74cbcff5fd3e)
+" 기술을 배우러 간 사람에게 ‘말놀이’를 제공하면, 그건 교육이 아니라 시간 낭비입니다."
 
       
       
